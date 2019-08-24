@@ -1,4 +1,4 @@
-# Curriculum based Dropout Discriminator for Domain Adaptation(CD3A)
+# Curriculum based Dropout Discriminator for Domain Adaptations(CD3A)
 
 Torch code for Domain Adaptation model(CD3A) . For more information, please refer the [paper](https://arxiv.org/pdf/1907.10628.pdf) 
 
